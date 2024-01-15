@@ -1,0 +1,9 @@
+{"DATABASE":
+    {"HOST":"webdb.vvsu.ru",
+    "USERNAME":"ds_test_oiad",
+    "PASSWORD":"uYg0XvSfb_",
+    "DB" : "LearningAnalytics"},
+    "BOT_TOKEN":{
+        "KEY":"6375731999:AAFPpAlGHcof3Qgb0dnG-ylYDsAvri35hOE"
+    }
+}
